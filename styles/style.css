@@ -186,7 +186,7 @@ fieldset {
 
 .search-form__textfield {
   color: rgba(255, 255, 255);
-  font-family: Fira Sans Condensed;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: transparent;
   width: 225px;
@@ -210,7 +210,7 @@ fieldset {
   cursor: pointer;
   background-color: transparent;
   color: #fff;
-  font-family: Fira Sans Condensed;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   font-weight: 700;
   border: 1px solid #fff;
